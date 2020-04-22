@@ -15,7 +15,7 @@ This framework is tested with:
 * Python 3.7
 * Python 3.8
 
-There are two ways to install the framework:
+There are two ways to install the package:
 
 * Installation using pip (a Python package manager):
 
